@@ -1,0 +1,119 @@
+body {
+  text-align: center;
+  font-family: "Bahiana Regular";
+}
+.background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.foto {
+  position: relative;
+  width: 100%;
+  height: 750px;
+}
+
+.jersey-15-regular {
+  font-family: "Jersey 15", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.maintext1 {
+  position: absolute;
+  font-family: "Jersey 15", static;
+  color: #d2abe5;
+  font-size: 5rem;
+  padding-bottom: 10%;
+}
+
+.maintext2 {
+  position: absolute;
+  font-family: "Bahiana Regular";
+  color: #d2abe5;
+  padding-top: 8%;
+  font-size: 1.5rem;
+  padding-bottom: 10%;
+  padding-right: 12%;
+}
+.nav-link:hover {
+  color: rgb(219, 137, 228) !important;
+}
+
+.nav-link {
+  color: rgb(9, 24, 229);
+  font-family: "Jersey 15", static;
+  font-size: 1.3rem;
+}
+
+.justify-content-center {
+  padding-right: 72%;
+}
+
+/*About me*/
+.about {
+  display: block;
+}
+
+.foto2 {
+  position: relative;
+  width: 250px;
+  height: 200px;
+  border-radius: 50%;
+  margin-top: 10.5%;
+  margin-bottom: 1%;
+}
+.abouttext {
+  position: absolute;
+  margin-top: 20%;
+}
+
+.metext {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+  font-size: 1.1rem;
+  font-family: "Bahiana Regular";
+}
+
+.text2 {
+  padding-left: 2%;
+}
+
+hr {
+  border: dotted rgb(156, 184, 198) 6px;
+  width: 4%;
+}
+/*Skills*/
+
+.skills {
+  margin-top: 12%;
+  margin-bottom: 10%;
+  font-size: 4rem;
+  text-decoration: overline;
+  font-family: "Jersey 10", static;
+}
+
+/*Work*/
+.containerwork {
+  margin-top: 16%;
+}
+
+.containerflex {
+  display: grid;
+  width: 60%;
+  height: 70%;
+  margin-left: 20%;
+}
+
+.workfoto {
+  margin-top: 7%;
+  margin-bottom: 2%;
+}
+
+.textwork {
+  font-size: 4rem;
+  margin-top: 2%;
+  font-family: "Jersey 10", static;
+}
