@@ -49,9 +49,11 @@ body {
 
 .justify-content-center {
   padding-right: 72%;
-  display:flex;
+  
 }
-
+.nav{
+  display:inline-block;
+}
 /*About me*/
 .about {
   display: block;
