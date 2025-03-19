@@ -52,8 +52,9 @@ body {
   
 }
 
-.nav{
-  display:flex;
+.nav > li {
+  
+  display: inline;
 }
 
 /*About me*/
