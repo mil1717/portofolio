@@ -49,6 +49,7 @@ body {
 
 .justify-content-center {
   padding-right: 72%;
+  display:flex;
 }
 
 /*About me*/
